@@ -1,0 +1,26 @@
+[Eagle]
+Version="09 06 02"
+Platform="Mac OS X"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="OPL_Capacitor.lbr"
+UsedLibraryUrn="urn:adsk.eagle:library:16290819"
+UsedLibraryUrn="urn:adsk.eagle:library:11687645"
+UsedLibraryUrn="urn:adsk.eagle:library:16502351"
+UsedLibrary="SN74CBT3245APWR.lbr"
+UsedLibrary="MC74HC04ADG.lbr"
+UsedLibrary="74HC138PW_118.lbr"
+UsedLibrary="SN74HC251NSR.lbr"
+UsedLibrary="CD74HC238PWR.lbr"
+UsedLibrary="SN74ALS138AN.lbr"
+UsedLibrary="2-5499206-1.lbr"
+UsedLibrary="2-5499206-4.lbr"
+UsedLibrary="CAY17-103JALF.lbr"
+UsedLibrary="PTV09A-4020F-A504.lbr"
+UsedLibrary="SN74ALS541DW.lbr"
+
+[Desktop]
+Screen="2048 1280"

@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-09-08T15:18:48Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SSS_SOB_REPRO"
+        },
+        "Owner": "Jamie Cruickshank <me@j4mie.jp>",
+        "Size": {
+            "X": 434,
+            "Y": 160
+        }
+    }
+}
