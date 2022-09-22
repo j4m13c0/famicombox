@@ -1,6 +1,6 @@
 ![Main Board](https://i.imgur.com/sOlGxNL.jpg)
 
-The FamicomBox+ mod has been designed to fix some of the design flaws in the Famicom Box design. The Famicom Box is designed to switch between 16 different cartridges, however in the original design some of the pins in the cartridge are common between the 16 cartridges such as IRQ, M2 and PPU /RD. This mod addresses the following issues:
+The FamicomBox+ mod has been designed to fix some of the design limitations in the Famicom Box design. The Famicom Box is designed to switch between 16 different cartridges, however in the original design some of the pins in the cartridge are common between the 16 cartridges such as IRQ, M2 and PPU /RD. This mod addresses the following issues:
 
 * Demultiplexes M2 (Pin 38) to all 16 Cartridges
 * Multiplexes /IRQ (Pin 15) from all 16 cartridges
